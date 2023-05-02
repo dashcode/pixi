@@ -1,0 +1,12 @@
+{
+    "name": "v7",
+    "version": "0.0.0",
+    "private": true,
+    "type": "module",
+    "scripts": {
+        "start": "node ./index.js"
+    },
+    "dependencies": {
+        "pixi.js": "7.2.4"
+    }
+}
