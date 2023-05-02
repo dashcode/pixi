@@ -1,6 +1,6 @@
 import crypto from 'crypto';
 
-import { VERSION } from "pixi.js";
+import { VERSION } from "@pixi/core";
 import { Application } from "pixi.js";
 
 const hash= crypto.createHash('md5')

@@ -891,7 +891,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"pixi.js@npm:^7.2.4":
+"pixi.js@npm:7.2.4":
   version: 7.2.4
   resolution: "pixi.js@npm:7.2.4"
   dependencies:
@@ -933,6 +933,41 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "pixi@workspace:."
   dependencies:
+    "@pixi/accessibility": 6.5.0
+    "@pixi/app": 6.5.0
+    "@pixi/compressed-textures": 6.5.0
+    "@pixi/constants": 6.5.0
+    "@pixi/core": 6.5.0
+    "@pixi/display": 6.5.0
+    "@pixi/extract": 6.5.0
+    "@pixi/filter-alpha": 6.5.0
+    "@pixi/filter-blur": 6.5.0
+    "@pixi/filter-color-matrix": 6.5.0
+    "@pixi/filter-displacement": 6.5.0
+    "@pixi/filter-fxaa": 6.5.0
+    "@pixi/filter-noise": 6.5.0
+    "@pixi/graphics": 6.5.0
+    "@pixi/interaction": 6.5.0
+    "@pixi/loaders": 6.5.0
+    "@pixi/math": 6.5.0
+    "@pixi/mesh": 6.5.0
+    "@pixi/mesh-extras": 6.5.0
+    "@pixi/mixin-cache-as-bitmap": 6.5.0
+    "@pixi/mixin-get-child-by-name": 6.5.0
+    "@pixi/mixin-get-global-position": 6.5.0
+    "@pixi/particle-container": 6.5.0
+    "@pixi/polyfill": 6.5.0
+    "@pixi/prepare": 6.5.0
+    "@pixi/runner": 6.5.0
+    "@pixi/settings": 6.5.0
+    "@pixi/sprite": 6.5.0
+    "@pixi/sprite-animated": 6.5.0
+    "@pixi/sprite-tiling": 6.5.0
+    "@pixi/spritesheet": 6.5.0
+    "@pixi/text": 6.5.0
+    "@pixi/text-bitmap": 6.5.0
+    "@pixi/ticker": 6.5.0
+    "@pixi/utils": 6.5.0
     pixi.js: 6.5.0
   languageName: unknown
   linkType: soft
@@ -972,6 +1007,36 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "v7@workspace:packages/v7"
   dependencies:
-    pixi.js: ^7.2.4
+    "@pixi/accessibility": 7.2.4
+    "@pixi/app": 7.2.4
+    "@pixi/assets": 7.2.4
+    "@pixi/compressed-textures": 7.2.4
+    "@pixi/core": 7.2.4
+    "@pixi/display": 7.2.4
+    "@pixi/events": 7.2.4
+    "@pixi/extensions": 7.2.4
+    "@pixi/extract": 7.2.4
+    "@pixi/filter-alpha": 7.2.4
+    "@pixi/filter-blur": 7.2.4
+    "@pixi/filter-color-matrix": 7.2.4
+    "@pixi/filter-displacement": 7.2.4
+    "@pixi/filter-fxaa": 7.2.4
+    "@pixi/filter-noise": 7.2.4
+    "@pixi/graphics": 7.2.4
+    "@pixi/mesh": 7.2.4
+    "@pixi/mesh-extras": 7.2.4
+    "@pixi/mixin-cache-as-bitmap": 7.2.4
+    "@pixi/mixin-get-child-by-name": 7.2.4
+    "@pixi/mixin-get-global-position": 7.2.4
+    "@pixi/particle-container": 7.2.4
+    "@pixi/prepare": 7.2.4
+    "@pixi/sprite": 7.2.4
+    "@pixi/sprite-animated": 7.2.4
+    "@pixi/sprite-tiling": 7.2.4
+    "@pixi/spritesheet": 7.2.4
+    "@pixi/text": 7.2.4
+    "@pixi/text-bitmap": 7.2.4
+    "@pixi/text-html": 7.2.4
+    pixi.js: 7.2.4
   languageName: unknown
   linkType: soft
